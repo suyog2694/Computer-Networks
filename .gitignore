@@ -3,3 +3,10 @@ build/
 *.exe
 sample.txt
 received_sample.txt
+received_sample.mp4
+received_sample.wav
+received_test_script.py
+script_test.py
+audio_test.wav
+text_test.txt
+video_test.mp4
